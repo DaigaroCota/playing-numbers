@@ -1,0 +1,24 @@
+{
+  "name": "playing-numbers",
+  "version": "1.0.0",
+  "description": "Distribution system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaigaroCota/playing-numbers.git"
+  },
+  "author": "daigaro.eth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaigaroCota/playing-numbers/issues"
+  },
+  "homepage": "https://github.com/DaigaroCota/playing-numbers#readme",
+  "dependencies": {
+    "mathjs": "^10.0.0",
+    "regression": "^2.0.1"
+  }
+}
