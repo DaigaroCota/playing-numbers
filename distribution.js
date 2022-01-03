@@ -44,8 +44,8 @@ const computeDistributionScheme = (amountNFTs, allocation, regressEq) => {
 
 // Input Parameters
 const amountOfNFTs = 10;
-const allocationForNftTier = 1.25;
-const percentageDelta = 3.5;
+const allocationForNftTier = 1.25; //this translates 1.25 to %1.25
+const percentageDelta = 3.5; //this translates 3.5 to %350.0
 
 // Computations
 const params = buildParametersForRegression(amountOfNFTs, allocationForNftTier, percentageDelta);
